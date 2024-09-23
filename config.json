@@ -1,0 +1,9 @@
+{
+	"capi": true,
+	"https": false,
+	"fallbackImage": "",
+	"framework": "svelte",
+	"layout": "bleed",
+	"slug": "insurefossil",
+	"uuid": "cd4c01c9-b5a1-4276-962a-906116ffb03a"
+}
